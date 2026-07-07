@@ -1,0 +1,21 @@
+id_service,ServiceType
+1,Preventive Maintenance
+,Preventive Maintenance
+2,Repair
+,Repair
+3,Installation
+,Installation
+,Repair
+,Repair
+,Preventive Maintenance
+,
+,Installation
+,Installation
+,Repair
+,Repair
+,Preventive Maintenance
+,Maintenance
+,Installation
+,Installation
+,Repair
+,Repair

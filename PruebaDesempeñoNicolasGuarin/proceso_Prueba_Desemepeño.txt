@@ -1,0 +1,9 @@
+Fase de normalizacion
+1- we normalized using the 3 normalize forms rules so we clean the excel database.
+2- we made others table to allow de columns in independemet tables to then relate them.
+3- terminamos de asignar los id de las tablas con llaves foraneas, nos aseguramos que este todas las identidades con sus atributos bien separadps.
+
+Fase de conexion de la base de datos por medio de docker a mysql workbench
+1- nos conectamos a workbench para crear las tablas (DDl)
+2- Insertamos archivos medidante csv (DML)
+
